@@ -1,4 +1,3 @@
-layout_spectrum: 0.5355779463425279
 typography_spectrum: 0.4556502371560782
 color:
   brandStrength: 0.3852372798137367
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.5355779463425279
 name: NEXT STEPS
 title: NEXT STEPS
+description: A Path to an Improved You
