@@ -6,9 +6,9 @@ color:
   saturation: 0.07415156648494303
   rhythmicContrast: 0.9819057120475918
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: NEXT STEPS
