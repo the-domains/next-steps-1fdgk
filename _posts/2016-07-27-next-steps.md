@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: A Path to an Improved You...
-datePublished: '2016-08-08T05:33:19.256Z'
-dateModified: '2016-08-08T05:32:24.794Z'
+datePublished: '2016-08-08T05:40:15.647Z'
+dateModified: '2016-08-08T05:40:02.601Z'
 title: NEXT STEPS
 author: []
 via: {}
@@ -27,7 +27,8 @@ A Path to an Improved You...
 
 * Divorce Recovery
 * Blended Family coaching
-* Pre-marital Assessments
+* Pre-marital Readiness
+* Remarriage Readiness
 * Couples Enrichment Assessments
 * Personal Coaching
 
