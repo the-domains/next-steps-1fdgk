@@ -1,4 +1,21 @@
+name: NEXT STEPS
+favicon: null
+layout_spectrum: 0.51045
 typography_spectrum: 0.13636
+title: NEXT STEPS
+description: A Path to an Improved You
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#dee7e6'
@@ -10,21 +27,4 @@ color:
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.75654
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: NEXT STEPS
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: NEXT STEPS
-description: A Path to an Improved You
 purpose: []
