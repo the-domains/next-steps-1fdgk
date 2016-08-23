@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: A Path to an Improved You...
-datePublished: '2016-08-08T18:04:00.040Z'
-dateModified: '2016-08-08T05:45:57.692Z'
+datePublished: '2016-08-23T01:51:57.864Z'
+dateModified: '2016-08-08T18:04:03.286Z'
 title: NEXT STEPS
 author: []
 via: {}
@@ -19,9 +19,8 @@ starred: true
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eec3a3f-0492-4722-a38a-4633c9971493.jpg)
-
 # NEXT STEPS
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7eec3a3f-0492-4722-a38a-4633c9971493.jpg)
 
 A Path to an Improved You...
 
